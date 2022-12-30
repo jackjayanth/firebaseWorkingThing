@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "facebook-2474a": {
+      "hosting": {
+        "jayFire1": [
+          "jayanth12345"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "facebook-2474a"
+  }
+}
